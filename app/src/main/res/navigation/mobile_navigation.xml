@@ -1,0 +1,16 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_my_quotes">
+    <fragment
+        android:id="@+id/nav_my_quotes"
+        android:name="com.tubes.hibanyumas.komentar.ui.MyKomentarFragment"
+        android:label="Review"
+        tools:layout="@layout/fragment_komentar_quotes" />
+    <fragment
+        android:id="@+id/nav_global_quotes"
+        android:name="com.tubes.hibanyumas.komentar.ui.GlobalKomentarFragment"
+        android:label="Global Review"
+        tools:layout="@layout/fragment_komentar_quotes" />
+</navigation>

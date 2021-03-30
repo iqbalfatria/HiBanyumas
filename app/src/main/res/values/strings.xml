@@ -1,0 +1,317 @@
+<resources>
+    <string name="app_name">HI BANYUMAS</string>
+    <string name="tugas1">HOTEL</string>
+    <string name="tugas2">OLEH-OLEH</string>
+    <string name="tugas3">WISATA ALAM</string>
+    <string name="tugas4">TEMPAT BERSEJARAH</string>
+    <string name="tugas5">KULINER</string>
+    <string name="name">nama</string>
+    <string name="description">deskripsi</string>
+    <string name="large_text">large text</string>
+
+    <string-array name="data_name">
+        <item>Hotel Java Heritage</item>
+        <item>Hotel Wisata Niaga</item>
+        <item>Hotel Santika</item>
+        <item>Aston Imperium Hotel</item>
+        <item>Grand Karlita Hotel</item>
+        <item>COR Hotel Purwokerto</item>
+        <item>Dominic Hotel</item>
+        <item>Hotel Puri wisata</item>
+        <item>Hotel Hayden inn</item>
+        <item>Hotel Surya Yudha</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Java Heritage Hotel adalah hotel mewah yang terletak di jantung kawasan bisnis dengan 169 kamar, deluxe, suite, dan cottage dengan desain hangat dan elegan dengan inklusi kamar yang sangat praktis dan fungsional untuk memaksimalkan kenyamanan Anda dengan pemandangan kota Purwokerto, pemandangan kolam renang atau pemandangan gunung Slamet.
+              Java Heritage Hotel memiliki 169 Kamar, Delux, Suites, Cottages, 16 Ruang Rapat, Grand Ballroom, dan Convention Center. Kami juga memiliki area parkir terbesar yang memuat hingga 500 mobil, Lagoon / Pool terbesar dan terbaik di Jawa Tengah dengan lebar 96 meter. Hotel ini juga dikelilingi oleh pusat hiburan seperti Marcopolo Spa, Pusat Kebugaran, Aerobic Studio,
+              dan Club dan KTV (Cheers! Never Ending Party).Sebagai hotel terbesar di kota, kami menyediakan berbagai gerai makanan dan minuman otentik. Kami juga memiliki atap, yang dapat menjadi tempat yang sempurna untuk mendapatkan pemandangan indah kota. Fasilitas mewah kami yang bercampur dengan budaya Jawa akan menghasilkan pengalaman yang tak terlupakan</item>
+        <item>Wisata Niaga terletak sangat dekat dengan pusat kota Purwokerto sehingga sangat mudah dijangkau. Selain itu hotel ini juga dekat dengan stasiun kereta api Purwokerto. Terletak di Jl. Merdeka No. 5 anda bisa dengan cepat dan mudah menjangkau pusat perbelanjaan dan tempat penting lainnya yang ada di kota dengan sebutan kota satria ini.
+              Cocok bagi anda yang ingin berlibur atau akan melakukan perjalan bisnis.fasilitas umum yang berada di sekitar hotel adalah :
+                732m dari alun alun purwokerto
+                1.78km dari stasiun purwokerto
+                12.64 km dari Air Terjun Baturaden</item>
+        <item>Terletak dekat dengan tempat wisata, kawasan bisnis dan pusat kota, Hotel Santika Purwokerto adalah hotel berkelas yang memiliki desain interior khas tradisi lokal. Di Santika Hotel dan Resorts, kami mengkombinasikan tradisi lokal dengan keindahan alam sehingga tamu kami dapat mengalami keramahan khas Indonesia. Yakinlah bahwa Anda akan disambut
+              hangat di setiap Hotel Santika kami.Rasakan seni keramahtamahan Indonesia, ciri khas setiap Hotel Santika sebagai hotel bintang tiga teratas kami, dan temukan apa yang menjadikan setiap hotel kami sebagai "rumah kedua". Stasiun Kereta Api Purwokerto dapat dicapai dengan berkendara selama 20 menit. Bandara terdekat adalah Bandara Adi Sucipto yang
+              berjarak 4 jam perjalanan.Hotel Santika menyediakan serangkaian layanan yang lebih lengkap dengan kamar dan suite yang luas, tersedia untuk kebutuhan pelancong bisnis dan liburan yang cerdas. Hotel Santika juga menggabungkan banyak fasilitas dan layanan dengan akses mudah ke bandara, pusat komersial, dan area budaya yang menarik, kantor pemerintah,
+              dan retret rekreasi.Waktu check-in standar 14:00 * Waktu check-in dari plan mempunyai prioritas lebih besar Waktu check-out standar	12:00 * Waktu check-out dari plan mempunyai prioritas lebih besar Jumlah kamar 121 (Single: 0, Double: 0, Twin: 0, Suite: 0,Lainnya: 0).Hotel ini berada di alamat Jl. Gerilya Barat No. 30 A, Purwokerto, Jawa Tengah,
+              Indonesia</item>
+        <item>Hotel yang sempurna untuk pelancong bisnis dan rekreasi. Dengan 146 kamar yang luas, 4 ruang pertemuan, dan 1 Ballroom dengan 1.024 m2 yang dapat menampung hingga 1.200 orang, Lounge Lobi Paseban, Pub dan Bistro A Bar, Pusat Kebugaran Raga, Spa dan Refleksi, Kolam Renang Luar Ruangan dengan Kolam Renang Anak, Internet Gratis akses, pusat perbelanjaan,
+              dan Pusat Bisnis yang sesuai dengan kebutuhan bisnis Anda.Fasilitas pertemuan terbesar di kota. Dengan 4 ruang pertemuan dan Ballroom untuk hingga 1.200 peserta, Aston Purwokerto menawarkan beragam fasilitas pertemuan dan acara yang sesuai dengan kebutuhan untuk pertemuan bisnis, pertemuan, pesta makan malam, dan acara.
+                \n\n - di sekitar hotel terdapat :
+                \n\n - Stadion Satria yang berjarak 521m
+                \n - stasiun purwokerto yang berjarak 2.55 km
+                \n - Alun-Alun Purwokerto yang berjarak 1.84 km
+                \n - Air Terjun Baturaden yang berjarak 11.85 km</item>
+        <item>Grand Karlita Hotel Purwokerto hanya berjarak 10 menit berkendara dari stasiun kereta. Properti ini menawarkan akses mudah ke tempat-tempat wisata utama dan tempat menarik di Purwokerto. Kamar-kamar hotel kami dilengkapi dengan tempat tidur King Koil eksklusif, TV 43 inci besar, dan AC terpusat untuk kenyamanan Anda.
+              \n\n jenis Kamar yang tersedia :
+              \n\n -Ruangan standar
+              \n Kamar modern seluas 30 meter persegi ini dilengkapi dengan pilihan tempat \n tidur king atau twin. Dilengkapi dengan TV, Minibar, pembuat Kopi / Teh \n dan Pendingin Udara Dingin. Selain itu, kami juga menawarkan brankas di \n kamar. Pilihan sempurna untuk perjalanan bisnis atau liburan keluarga.
+              \n\n -Kamar Superior
+              \n Sempurna untuk liburan keluarga atau perjalanan bisnis, kamar seluas 32 meter persegi ini dilengkapi dengan fasilitas TV LED Besar, kulkas mini bar, AC dingin, pembuat kopi /teh, dan brankas di kamar. Itu juga dilengkapi dengan opsi: tempat tidur twin atau king.
+              \n\n -Kamar Deluxe
+              \n Rasakan ruang dan kenyamanan ruang 36 meter persegi di kamar deluxe kami, yang dilengkapi dengan WiFi gratis, TV, sofa nyaman, fasilitas membuat kopi dan teh, dan lingkungan sekitar yang cocok untuk liburan atau liburan bisnis
+              \n\n -Suite Junior
+              \nJunior suite seluas 88 meter persegi ini sangat cocok untuk keluarga. Ini memiliki cukup ruang untuk tempat tidur tambahan (dengan biaya tambahan) dan juga dilengkapi dengan bak mandi nyaman, sofa dan ruang tamu besar.</item>
+        <item>COR Hotel Purwokerto sebuah penginapan yang berlokasi di Banyumas, Purwokerto. Suasana ruangan yang bersih dan nyaman, cocok bagi Anda yang akan berlibur atau mengadakan kunjungan bisnis. Lokasi yang strategis sehingga mudah untuk diakses, dan harga yang terjangkau bisa menjadi pilihan akomodasi perjalanan Anda, hotel ini beralamat di Jl. Jendral Sudirman no. 508-511, Purwokerto 53141 Indonesia</item>
+        <item>Dominic Hotel Purwokerto menghadirkan akomodasi bintang 3 yang nyaman di pusat Kota Purwokerto. Berjarak sekitar 9 menit berkendara dari Stasiun Purwokerto, Dominic Hotel Purwokerto cocok untuk wisatawan, pelancong bisnis, serta keluarga. Setiap kamarnya memiliki AC, akses Wi-Fi, TV layar datar dengan saluran internasional, kamar mandi pribadi meliputi pancuran air panas, teko elektrik, dan minibar.
+              Sedangkan area duduk sofa dan kulkas bisa Anda temukan di beberapa kamar pilihannya. Selama menginap, Anda akan mendapatkan air mineral, teh dan kopi, serta perlengkapan mandi gratis.Restoran hotel menyajikan hidangan lokal serta aneka minuman. Anda juga dapat menikmati sarapan prasmanan dan memanfaatkan layanan penyewaan mobil untuk mendukung mobilitas. Bagi turis bisnis, tersedia ruang rapat,
+              ruang konferensi, serta Wi-Fi di semua area umumnya. Dominic Hotel Purwokerto berjarak sekitar 10 menit berkendara dari Alun-alun Purwokerto dan Museum Bank Rakyat Indonesia. Sedangkan tempat wisata air terjun Curug Grenjang berlokasi sekitar 23 menit berkendara dari hotel
+                \n\n -Alamat : Jl. Komisaris Bambang Soeprapto No. 39-41, Purwokerto, Jawa Tengah, Indonesia
+                \n Waktu check-in standar : 14:00 * Waktu check-in dari plan mempunyai prioritas lebih besar
+                \n Waktu check-out standar : 12:00 * Waktu check-out dari plan mempunyai prioritas lebih besar.
+                \n Jumlah kamar : 156 </item>
+        <item>Penginapan modern dengan suasana yang asri dan sejuk Bagi Anda yang berwisata ke Purwokerto bersama keluarga ataupun teman kerja dan yang lainnya tapi memiliki keterbatasan anggaran, Hotel Puri Wisata Baturaden adalah pilihan yang tepat dan sempurna untuk menginap. Menginap di Hotel Puri Wisata Baturaden akan memuaskan anda dengan keramahtamahan karyawan dan harga yang terjangkau.Hotel Puriwisata Baturaden berselang 19 menit berjalan kaki dari Air Terjun Baturaden dan 25 menit berkendara dari stasiun Purwokerto. Akomodasi ini menawarkan kamar-kamar modern-minimalis dilengkapi AC, TV layar datar, kulkas mini dan ketel listrik. Area duduk sofa juga disediakan. Tidak ketinggalan kamar mandi dalam dengan fasilitas shower. Untuk menambah kenyamanan Anda, Hotel Puriwisata Baturaden turut melengkapi fasilitasnya dengan resepsionis 24 jam, akses WiFi gratis di area publik, klub malam, permainan billiard dan tempat belanja. Hotel Puriwisata Baturaden dapat dicapai sekitar 1.5 jam dari Gunung Slamet dan sekitar 2 jam dari Kebumen. Pemandian air panas Pancuran Pitu berjarak 11 menit berkendara, sementara mata air Telaga Sunyi berjarak 13 menit berkendara.</item>
+        <item>Akomodasi yang nyaman dan modern di Purwokerto.Akomodasi yang tak kalah nyaman dan terjangkau. Hayden Inn sebuah penginapan yang luar biasa berlokasi strategis. Pilihan yang fantastis untuk mendapatkan pengalaman yang tidak terlupakan. Nikmati layanan professional, penuh perhatian, dan ramah demi kenyamanan Anda selama menginap.Jl. Gelora Indah I Gang Baseball/Gang ll No.3, Purwokerto Lor, Purwokerto Timur, Purwokerto, Banyumas, Jawa Tengah, Indonesia</item>
+        <item>Pilihan akomodasi yang ideal untuk Pasangan, Backpacker dan Liburan Keluarga. Hotel Surya Yudha sebuah hunian yang berlokasi di Purwokerto. Suasana ruangan yang bersih dan nyaman, cocok bagi Anda yang akan berlibur atau mengadakan kunjungan bisnis. Lokasi yang strategis sehingga mudah untuk diakses, dan harga yang terjangkau bisa menjadi pilihan akomodasi perjalanan Anda.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://r-cf.bstatic.com/images/hotel/max1024x768/136/136825556.jpg</item>
+        <item>https://r-cf.bstatic.com/images/hotel/max1024x768/178/178288954.jpg</item>
+        <item>http://hotelindoo.com/sites/default/files/portfolio/santikapurwo-003.jpg</item>
+        <item>http://2.bp.blogspot.com/-dmC5llubCNw/UzbXMIEZaEI/AAAAAAAABdA/UBelfo29d5c/s1600/Hotel+Aston+Imperium+Purwokerto.jpg</item>
+        <item>https://pix10.agoda.net/hotelImages/4939124/-1/d2f8fd83a98023b704ca2ae5f5e5a011.jpg</item>
+        <item>https://www.pegipegi.com/travel/wp-content/uploads/2018/04/COR-HOTEL.jpg</item>
+        <item>https://s.misteraladin.com/images/hotel/0000132000/0000131898/dominic-hotel-purwokerto-photo8.jpg</item>
+        <item>https://origin.pegipegi.com/jalan/images/pict1L/Y0/Y903230/Y903230027.jpg</item>
+        <item>https://q-cf.bstatic.com/images/hotel/max1280x900/232/232908587.jpg</item>
+        <item>https://origin.pegipegi.com/jalan/images/pict1L/Y4/Y907104/Y907104011.jpg</item>
+    </string-array>
+
+    <string-array name="data_name2">
+        <item>pusat oleh-oleh khas purwokerto tetap asli ny. sutrisno</item>
+        <item>Getuk goreng "asli" haji tohirin 1</item>
+        <item>Getuk goreng "asli" haji tohirin 2A</item>
+        <item>Getuk goreng "asli" haji tohirin 4</item>
+        <item>sawangan shop no 1</item>
+        <item>mendoan ECO 21</item>
+        <item>jenang jaket pertama</item>
+        <item>jenang ketan banyumas</item>
+    </string-array>
+    <string-array name="data_description2">
+        <item>Merupakan pusat oleh-oleh khas purwokerto yang cukup lengkap menyediakan olahan khas purwokerto. yang beralamat di Jl. Situmpur No.85, Karangbawang, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141. pusat oleh-oleh ini beroperasi hingga pukul 20.30 WIB</item>
+        <item>Getuk Goreng ini sudah ada sejak tahun 1918. Getuk Goreng ini mempunyai banyak cabang yang tersebar di wilayah Banyumas. Pusatnya berada di sepanjang Jl. Jenderal Sudirman Sokaraja, Banyumas. cabang 1 ini beralamat di Jl. Jend. Soedirman No.151, Dusun II, Sokaraja Tengah, Kec. Sokaraja, Kabupaten Banyumas, Jawa Tengah 53181, dan beroperasi 24 jam sehingga pengunjung tidak perlu khawatir toko akan tutup ketika hendak membeli oleh-oleh</item>
+        <item>Getuk Goreng ini sudah ada sejak tahun 1918. getuk goreng ini merupakan salah satu cabang dari tempat oleh-oleh dengan nama yang sama, yang alamatnya adalah di Jl. Jend. Soedirman No.71, Dusun II Sokaraja Tengah, Sokaraja Tengah, Kec. Sokaraja, Kabupaten Banyumas, Jawa Tengah 53181. beroperasi hingga pukul 21.15 WIB</item>
+        <item>Jl. Raya Banjarnegara - Purwokerto, Dusun II Sokaraja Tengah, Sokaraja Kulon, Kec. Sokaraja, Kabupaten Banyumas, Jawa Tengah 53181</item>
+        <item>Jl. Mayjend Sutoyo No.23, Sawangan, Kedungwuluh, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131 toko ini beroprasi hingga pukul 21.30 WIB</item>
+        <item>Jl. Mayjend Sutoyo No.21, Sawangan, Kedungwuluh, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131. toko ini beroprasi hingga pukul 21.30 WIB</item>
+        <item>Jenang Jaket Mersi Purwokerto merupakan salah satu makanan khas tradisional Kabupaten Banyumas yang sangat spesifik dan sulit ditemukan di kota-kota lainnya di Indonesia. Makanan ini dapat dikonsumsi sebagai makanan kecil ataupun sebagai hidangan dalam suatu hajatan dan acara-acara tertentu ataupun sebagai oleh-oleh bagi wisatawan yang berkunjung ke Purwokerto.
+        beralamat di Jl. PKK No.600, Mersi, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53112, toko ini beroperasi hinggal pukul 19.00 WIB</item>
+        <item>Jenang Jaket Mersi Purwokerto merupakan salah satu makanan khas tradisional Kabupaten Banyumas yang sangat spesifik dan sulit ditemukan di kota-kota lainnya di Indonesia. Makanan ini dapat dikonsumsi sebagai makanan kecil ataupun sebagai hidangan dalam suatu hajatan dan acara-acara tertentu ataupun sebagai oleh-oleh bagi wisatawan yang berkunjung ke Purwokerto. beralamat di Jl. Adipati Mersi No.68 (Pojok Lapangan Mersi) Purwokerto Telp. (0281)633745 Hp.081327444900</item>
+    </string-array>
+    <string-array name="data_photo2">
+        <item>https://www.panggon.com/wp-content/uploads/2014/12/Pusat-Oleh-oleh-Khas-Purwokerto-TETAP-ASLI-Ny-Sutrisno.jpg</item>
+        <item>http://1.bp.blogspot.com/-Ap4EzzqVXAc/T1gvKAFK1gI/AAAAAAAAAEs/rwRW7b2j94c/s1600/gethuk-goreng2.jpg</item>
+        <item>https://cdn2.tstatic.net/jateng/foto/bank/images/getuk-goreng_20180620_112723.jpg</item>
+        <item>http://segamas.com/wp-content/uploads/2017/10/image-44-840x627.jpg</item>
+        <item>https://cdn2.tstatic.net/jateng/foto/bank/images/pusat-oleh-oleh-sawangan-purwokerto-mulai-banjir-pembeli.jpg</item>
+        <item>https://cdn2.tstatic.net/jateng/foto/bank/images/karyawan-menggoreng-tempe-di-toko-mendoan-eco-21-sawangan-purwokerto-banyumad_20180602_163013.jpg</item>
+        <item>https://www.mgriyahotel.com/wp-content/uploads/2017/08/JENANG-JAKET-3.jpg</item>
+        <item>https://jenangketanbanyumas.files.wordpress.com/2015/06/cropped-img_166.jpg</item>
+    </string-array>
+
+    <string-array name="data_name3">
+        <item>Bukit Tranggulasih</item>
+        <item>Lokawisata Baturraden</item>
+        <item>Bukit Watu Meja</item>
+        <item>Kebun Raya Baturraden </item>
+        <item>Gunung Slamet</item>
+        <item>Curug Bayan</item>
+        <item>Curug Telu</item>
+        <item>Curug Jenggala</item>
+        <item>Curug Nangga</item>
+        <item>Telaga Sunyi</item>
+    </string-array>
+    <string-array name="data_description3">
+        <item>Di masa sekarang ini tiba-tiba banyak bermunculan tempat wisata atau tempat rekreasi di daerah-daerah di Indonesia. Tidak terkecuali di Banyumas, selain muncul beberapa taman rekreasi buatan seperti Andhang Pangrenan, Taman Satria dan Balai Kemambang, tempat rekreasi alami pun mulai banyak ditemukan, salah satunya adalah bukit Tranggulasih.
+        Terletak di Desa Windujaya kecamatan Kedungbanteng Banyumas, tepatnya di RT 03 RW 05, sekitar 15km dari pusat kota. Bukit ini banyak menyita perhatian wisatawan dalam maupun luar kota. Dapat ditempuh dari dua jalur, bisa dari desa Kedungbanteng ke utara lewat gerbang masuk Curug Gomblang, atau bisa juga dari kawasan wisata Curug Bayan (Curug Gede) Baturaden. Hanya dengan membayar tiket masuk parkir senilai Rp. 3000,- saja kita sudah bisa berekreasi sepuasnya ditempat ini.
+        Masih terletak di kaki gunung slamet, di bukit ini udara terasa asri dan sangat sejuk. Dari bukit ini Anda bisa melihat kota Purwokerto dari ketinggian, tidak hanya Purwokerto, bahkan Purbalingga dan Pemalang pun terlihat dari atas bukit ini. Sungguh, pemandangan yang sangat menakjubkan.
+        Dari lokasi parkir, membutuhkan waktu untuk memanjat ke bagian atas bukit, tetapi tenang saja tidak terlalu jauh hanya sekitar 200m, tergantung lokasi mana yang akan kita singgahi. Ada 4 Bukit utama di kawasan ini yakni bukit Datar, bukit Cinta Suramenggala, bukit Tinggi, dan bukit Tranggulasih itu sendiri.</item>
+        <item>Obyek Wisata Baturraden saat ini merupakan salah satu lokasi wisata di wilayah Kecamatan Baturraden, Kabupaten Banyumas, yang memiliki fasilitas terlengkap. Lokasinya juga cukup dekat dengan pusat kota Purwokerto hanya sekitar 15KM saja, sekitar 15 menit perjalanan dengan kendaraan bermotor. Tempat wisata ini cocok untuk segala umur dari anak-anak hingga dewasa dengan berbagai fasilitasnya.
+        Di beberapa tempat terpisah, pengunjung akan disuguhi beberapa penampilan seni lokal seperti kenthongan, calung, ebeg / kuda lumping, musik tradisional dan lainnya. Di beberapa sudut juga tersedia berbagai fasilitas dan mainan anak berbayar seperti Teater Alam yang berupa pesawat jenis Foxer 28 milik Garuda Indonesia, jadi buat yang belum pernah naik pesawat bisa coba fasilitas ini. Di dalamnya biasanya menayangkan film berdurasi pendek tentang alam Indonesia, bukan film box office holywood.</item>
+        <item>Satu lagi tempat wisata baru yang belum lama ini menjadi salah satu tempat favorit, Watu Meja – Bukit Badar, desa Tumiyang Kecamatan Kebasen – Banyumas.
+        Watu Meja ini berada di atas perbukitan di sepanjang jalan pintas Patikraja – Sampang melalui jembatan lama. Akses masuk dari jalan besar hanya bisa untuk sepeda motor sampai sebelum jalan setapak yang hanya bisa dilalui pejalan kaki. Dari jalan besar ada beberapa akses yang sudah ada tanda spanduk dan beberapa penjaga sekaligus tukang parkir.
+        Di lokasi Watu Meja sudah berjajar beberapa penjual makanan dan minuman yang merupakan warga tumiyang dan sekitarnya. Begitu juga beberapa penjual yang berada di beberapa titik jalan / jalur menuju lokasi Watu Meja. Jadi tidak perlu khawatir kelaparan atau kehausan karena memang jalur atau rutenya cukup melelahkan.
+        Wisata Watu Meja – Bukit Badar terbuka setiap hari untuk umum dan bisa sampai malam karena memang view sore malam juga nampaknya sangat menarik. Namun pengunjung wajib minta ijin ke pengurus setempat atau minta dipandu agar lebih aman.</item>
+        <item>Kebun Raya Baturraden berada di Desa Kemutug Lor, Kecamatan Baturraden, Kabupaten Banyumas, berbatasan dengan Lokawisata Baturraden dan Bumi Perkemahan Baturraden. Pembangunannya dirintis sejak tahun 2001. Kebun Raya ini merupakan wujud buah inspirasi Ibu Megawati Soekarnoputri (Wakil Presiden Republik Indonesia) yang dicetuskan pada penutupan Jambore Nasional tahun 2000 di Baturraden, Jawa Tengah. Hal ini disampaikan langsung oleh Ibu  Mega kepada Gubernur Jawa Tengah, H. Mardiyanto, mengingat pada saat itu Provinsi Jawa Tengah merupakan satu-satunya provinsi di Pulau Jawa yang belum memiliki kebun raya.
+        Luas keseluruhan Kebun Raya Baturraden mencapai 143,5 ha dan terletak di kawasan Wana Wisata Perum Perhutani yang merupakan perkebunan pinus (Pinus merkusii), damar (Agathis borneensis), dan rasamala (Altingia excelsa), serta beberapa jenis rotan sebagai sisipan. Kebun Raya Baturraden telah ditetapkan sebagai kawasan konservasi ex situuntuk flora pegunungan Jawa.</item>
+        <item>Gunung Slamet (3.428 meter dpl.) adalah sebuah gunung berapi kerucut yang terdapat di Pulau Jawa, Indonesia. Gunung Slamet terletak di antara 5 kabupaten, yaitu Kabupaten Brebes, Kabupaten Banyumas, Kabupaten Purbalingga, Kabupaten Tegal, dan Kabupaten Pemalang, Provinsi Jawa Tengah. Gunung Slamet merupakan gunung tertinggi di Jawa Tengah serta kedua tertinggi di Pulau Jawa setelah Gunung Semeru. Kawah IV merupakan kawah terakhir yang masih aktif sampai sekarang, dan terakhir aktif hingga pada level siaga medio-2009.
+        Gunung Slamet cukup populer sebagai sasaran pendakian meskipun medannya dikenal sulit. Di kaki gunung ini terletak kawasan wisata Baturraden yang menjadi andalan Kabupaten Banyumas karena hanya berjarak sekitar 15 km dari Purwokerto.</item>
+        <item>Berlokasi tepat di Dusun Kalipagu, Desa Ketenger, Kecamatan Baturaden, Kabupaten Banyumas, Provinsi JawaTengah.
+        Setelah puas berkeliling dan menikmati kesegaran Curug Bayan, Anda juga dapat bermalam dan measakan nuansa ketenangan yang bisa Ansa jadikan momen berkontemplasi bersama diri sendiri ketika sejenak rehat dari aktivitas sehari-hari.
+        Anda dapat menyewa sebuah vila yang masih berada di kawasan air terjun Curug Bayan. Vila berupa bangunan kayu bertingkat ini bernama ¨Wisma Curug Bayan¨ yang berdiri di atas Sungai Banjaran, beberapa puluh meter di bawah curug.</item>
+        <item>Curug ini lokasinya ada di Karangsalam, Baturraden, Banyumas. Untuk menuju ke curug Telu, ada baiknya menggunakan motor, karena akses jalannya yang tidak memungkinkan untuk dimasuki mobil.
+        Di curug telu, bisa berenang di ceruk yang ada di bawah air terjun. Curug ini dinamakan curug telu, karena ada tiga curug di areal kawasan ini. Selain curug telu yang merupakan curug terbesar, ada dua curug lain, yaitu curug lawang (sendang Bidadari) dan curug pelangi (moprok).</item>
+        <item>Curug jenggala adalah air terjun yang memiliki ketinggian 30 meter dari pemukaan tanah. Curug ini mempunyai 3 air terjun yang tingginya sejajar dan air terjun yang ditengah memiliki arus yang paling deras. Objek wisata ini menampilkan keindahan alam yang masih asri dan air terjun yang memesona. Di bawah air terjun terdapat sungai dengan batuan besar. Lokasinya berada di Dusun Kalipagu, Ketenger, Baturraden, Kabupaten Banyumas, Jawa Tengah 53152. Objek wisata ini berada di kaki gunung slamet yang membuat objek wisata ini memiliki daya tarik tersendiri. Selain itu, objek wisata ini menyediakan spot love yang terbuat dari kayu. Sehingga menarik pengunjung untuk berfoto.
+        Tiket masuk Curug Jenggala cukup terjangkau. Pengunjung cukup membayar Rp. 5000 dan biaya parkir untuk motor Rp.3000, mobil Rp. 5000. Dibuka pada pukul 08.00 dan ditutup pukul 18.00 untuk setiap hari.</item>
+        <item>Curug Nangga merupakan sebuah air terjun atau Curug (bahasa Indonesia: air terjun) yang berada di Desa Petahunan, Kecamatan Pekuncen, Kabupaten Banyumas. Curug Nangga mulai dikenal secara umum pada tahun 2015 melalui media sosial. Curug Nangga menjadi sebuah lokasi objek wisata baru di Kabupaten Banyumas, di mana unsur yang menarik para wisatawan adalah adanya tujuh tingkat undakan air terjun seperti tangga dengan ketinggian masing-masing air terjun bervariasi mulai 10-20 meter.
+        Bupati Banyumas, setelah mengunjungi lokasi wisata ini, menyumbang Rp 30 juta yang bersumber dari dana Anggaran Pendapatan dan Belanja Daerah untuk pembangunan jalan. Selain itu, Pemerintah Kabupaten Banyumas membuat jalan penghubung antarobjek wisata di daerah tersebut.</item>
+        <item>Obyek wisata Telaga Sunyi memang agak jauh dari keramaian dan tidak seramai Lokawisata Baturraden. Berjarak sekitar 2.8 KM dari Lokawisata Baturraden / Terminal ke arah timur dan bisa ditempuh dengan kendaraan mobil/motor sekitar 10-15 menitan.
+        Cocok untuk menyepi, melepaskan kepenatan sejenak dari kesibukan sehari-hari, Telaga Sunyi Baturraden menyajikan pemandangan alam yang hijau sejuk dan air yang dingin segar. </item>
+    </string-array>
+    <string-array name="data_photo3">
+        <item>https://gloob-online.com/wp-content/uploads/2017/01/tr3.jpg</item>
+        <item>https://pbs.twimg.com/profile_images/1098478838063935488/xGGl1kbR_400x400.jpg</item>
+        <item>https://i.ytimg.com/vi/7_8DjBZbk0c/maxresdefault.jpg</item>
+        <item>https://cdn.medcom.id/images/content/2017/11/15/788513/kebun_1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/36/Gunung_Slamet_dari_Kr_Salam.jpg</item>
+        <item>https://www.mgriyahotel.com/wp-content/uploads/2017/08/CURUG-BAYAN-1.jpg</item>
+        <item>https://live.staticflickr.com/710/20741958918_5e43ff11ba_b.jpg</item>
+        <item>https://www.pegipegi.com/travel/wp-content/uploads/2019/06/shutterstock_1310723732.jpg</item>
+        <item>https://4.bp.blogspot.com/-MLUT7eQB8Pg/XBJ_5DlSvuI/AAAAAAAACJk/CSR6bkyX79wEGMQvP2-TIiQ77zF19Pj3gCLcBGAs/s1600/lokasi%2Bcurug%2Bnangga%2Bbanyumas.jpg</item>
+        <item>https://media.travelingyuk.com/wp-content/uploads/2018/12/Mitos-Telaga-Sunyi.jpg</item>
+    </string-array>
+
+    <string-array name="data_name4">
+        <item>MUSEUM BANK BRI(BANK RAKYAT INDONESIA)</item>
+        <item>MONUMEN PANGLIMA BESAR JENDRAL SOEDIRMAN</item>
+        <item>Komplek Dalem Kadipaten (Komplek Pendopo Duplikat Si Panji Banyumas)</item>
+        <item>Museum Wayang Sendang Mas (Seni Pedalangan Banyumas)</item>
+        <item>ALUN-ALUN PURWOKERTO</item>
+        <item>ALUN ALUN BANYUMAS</item>
+        <item>Situs Batur Agung</item>
+        <item>Makam Gandakusuma Banyumas</item>
+        <item>Situs Watu Gathel</item>
+        <item>Situs Candi Sapto Argo</item>
+    </string-array>
+    <string-array name="data_description4">
+        <item>Purwokerto merupakan kota tempat berdirinya cikal-bakal Bank BRI (Bank Rakyat Indonesia), yang merupakan Bank terbesar milik Pemerintah.
+        Nah gedung lama dan pertama Bank BRI tersebut kini menjadi satu-satunya Museum BRI. Pada awalnya Bank Rakyat Indonesia (BRI) didirikan oleh Raden Bei Aria Wirjaatmadja pada tanggal 16 Desember 1895 dengan nama De Poerwokertosche Hulp en Spaarbank der Inlandsche Hoofden yang artinya Bank Bantuan dan Simpanan Milik Kaum Priyayi Purwokerto.
+        Dan sekarang, 16 Desember 1895 dijadikan sebagai hari kelahiran BRI. Pernah berhenti beroperasi pada masa perang tahun 1948 dan kembali beroperasi pada tahun 1949 dengan nama Bank Rakyat Indonesia Serikat. Pada 1968 namanya menjadi Bank Rakyat Indonesia (BRI) dan menjadi perseroan terbatas (PT) pada 1 Agustus 1992 yang kemudian
+        menjadi perusahaan publik dengan nama resmi PT. Bank Rakyat Indonesia (Persero) Tbk. Di Museum BRI Purwokerto, banyak sekali koleksi barang dan peralatan yang dulunya dipakai untuk operasional Bank BRI seperti mesin pembukuan dari berbagai merk, pesawat telepon, peti besi, lemari besi, mesin penghitung uang dan lainnya.
+        Ada juga koleksi uang kertas dan koin lama dari berbagai negara. Ada juga koleksi pakaian dan aksesoris milik RA Wiryaatmadja, diorama dengan berbagai suasana bank, pasar dan lainnya di jaman dahulu.</item>
+        <item>Monumen Panglima Besar Jendral Soedirman berada di pintu masuk kota Purwokerto dari arah barat tepatnya di sebelah timur Sungai Logawa.
+        Monumen ini terdiri dari dua lantai. Pada lantai bawah berisi foto-foto perjuangan Panglima Besar Jenderal Soedirman dalam merebut Yogyakarta kembali sebagai ibukota Indonesia (pada saat itu) dari kolonial Belanda.
+        Pada lantai dua berisi relief sejarah bangsa Indonesia dalam Perang Kemerdekaan 1945 dan Patung Jenderal Soedirman duduk diatas punggung kuda yang terbuat dari perunggu seberat 5,5 ton dengan tinggi 4,5 meter.
+        Disamping sebagai sarana wisata pendidikan dan sejarah, bagi para penggemar burung berkicau dapat menyalurkan hobi mengikuti lomba burung berkicau atau sekadar menyaksikan.
+        Lomba burung berkicau ini sudah menjadi agenda rutin di Monumen Panglima Besar Jenderal Soedirman yang digelar setiap bulan pada minggu keempat.</item>
+        <item>Komplek Pendopo Duplikat Si Panji, yang sekarang digunakan Kantor Kecamatan Banyumas, terletak di Jalan Kawedanan Lama No. 396, Banyumas.
+        Kompleks Dalem Kadipaten (Pendopo Duplikat Si Panji) Banyumas merupakan bangunan peninggalan Kadipaten Banyumas sebelum dipindah ke Purwokerto oleh Bupati Banyumas Martadireja II pada tanggal 7 Januari 1937. Komplek Dalem Kadipaten Banyumas ini dibangun tahun 1706 oleh Kiai Adipati Yudonegoro II Bupati Banyumas ke 7.
+        Sebelum lokasi Kadipaten Banyumas berada di tempat ini, Pusat pemerintahan Kadipaten Banyumas sejak Adipati I (Joko Kaiman tahun 1582) sampai Adipati Banyumas ke-6 terletak di Desa Kejawar, kurang lebih 5 kilometer dari tempat ini (alun-alun Banyumas).
+        Sebagai lokus bekas Kadipaten, Dalem Kadipaten (Pendopo Duplikat Si Panji) Banyumas telah menjadi salah satu artefak sekaligus landmark (tetenger) dari perjalanan panjang sejarah Kadipaten Banyumas yang pertama kali dibangun oleh Joko Kaiman yang bergelar Kanjeng Adipati Warga Utama II (Adipati Mrapat).
+        Kondisi eksisting Dalem Kadipaten (Pendopo Duplikat Si Panji) Banyumas mulai dari alun-alun, pintu gerbang, pendopo, longkangan, dalem ageng, griya ageng, boga sasana, senthong kiwa, senthong tengen, bale peni, bale warni hingga tamansari, selain hadir sebagai artefak sejarah, juga memiliki kedalaman filosofi yang didasarkan pada ajaran Jawa.
+        Dari sisi arsitektur, bangunan Dalem Kadipaten (Pendopo Duplikat Si Panji) Banyumas merupakan perpaduan yang sangat kental antara arsitektur tradisional Jawa dan arsitektur kolonial Belanda.
+        Dari sisi filosofis, Dalem Kadipaten (Pendopo Duplikat Si Panji) Banyumas mengandung ajaran kosmologi Jawa tentang keblat papat lima pancer (empat arah mata angin dan titik pusat imaginer yang berada di tengah-tengah). Bangunan pendopo dikelilingi empat pintu gerbang utama.
+        Gerbang pada sisi timur dan barat searah dengan terbit dan tenggelamnya matahari yang menjadi simbolisasi dari purwa, madya dan wasana yang menggambarkan kehidupan manusia di dunia dari yang semula tidak ada, menjadi ada, dan pada saatnya akan kembali tidak ada.
+        Sedangkan gerbang pada sisi selatan dan utara searah dengan laut selatan dan gunung Slamet, menggambarkan arah privasi (dalem Kadipaten) ke arah publik (masyarakat). Oleh karena itu di arah depan pendopo terdapat alun-alun yang di sisi kanannya terdapat masjid (menggambarkan sisi kebaikan) dan di sisi kirinya terdapat penjara atau Lembaga Pemasyarakatan (menggambarkan sisi buruk).</item>
+        <item>Museum Wayang didirikan pada tahun 1983 atas gagasan Soeparjo Rustam bersama sesepuh atau tokoh-tokoh Banyumas seperti Soerono, Soesilo Sudarman dan lain-lain tokoh budayawan Banyumas.
+        Tujuan pendirian Museum Wayang ini adalah untuk melestarikan budaya Banyumas Khususnya dan budaya bangsa pada umumnya, terutama seni pewayangan.
+        Pelaksanaan peresmian Museum Wayang pada tanggal 31 Desember 1983, malam tahun baru 1 Januari 1983 oleh bupati Banyumas dan SENAWANGI (Badan Sekertariat  Pewayangan Indonesia).
+        Gedung Museum Wayang menempati bangunan kuno dari salah satu bangunan yang ada pada kompleks bekas Kabupaten Banyumas.
+        Gaya arsitekturnya berciri-ciri limasan dan berada pada luas tanah awal seluas 0,20 Ha dengan luas bangunan seluas 252 meter persegi.
+        Bangunan ini merupakan rehabilitasi Bangunan Paseban. Tempat persiapan tamu-tamu Bupati zaman dahulu guna menghadap dengan berbagai keperluan, seperti : laporan wilayah, pengiriman upeti, pengiriman pajak, laporan keamanan praja Banyumas, dan sebagainya.
+        Kemudian ini dia yang menarik dari Museum Wayang Sendang Mas, yaitu benda koleksi yang dimiliki museum. Berikut adalah beberapa Koleksi yang dimiliki oleh Museum Wayang Sendang Mas Banyumas :
+        \n\1. Satu perangkat Gamelan Laras Selendro, koleksi sejak tahun 1983
+        \n\2. Wayang
+        \n\3. Benda Tosan Aji yang merupakan Sumbangan dari masyarakat di Tahun 2005
+        \n\4. Benda Pra Sejarah berupa fosil yaitu sisa-sisa makhluk hidup yang telat membatu yang sudah tertimbun dalam tanah berjuta tahun.
+        \n\5. Foto dan Lukisan</item>
+        <item>Tepat pada malam Tahun Baru 2015 Alun-Alun Purwokerto Resmi dibuka kembali, setelah ada kegiatan renovasi di alun-alun tersebut yang memakan waktu kurang lebih selama 5 (lima) bulan.
+        Selain menjadi pusat kota, bagi masyarakat Purwokerto alun-alun sudah menjadi icon tersendiri bagi kota Purwokerto, dan walaupun sudah ada beberapa tempat rekreasi lainnya alun-alun masih menjadi tempat rekreasi utama masyarakat Purwokerto.
+        Dari awal adanya latar kabupaten, alun-alun Purwokerto sudah mengalami beberapa kali perubahan. Perubahan Pertama saat perpindahan Kantor Kabupaten Banyumas, alun-alun yang dulunya memang sudah menjadi pusat kota diubah menjadi sebuah halaman Kabupaten.
+        Pada Tahun 2009 Bupati Banyumas saat itu Drs. Mardjoko dengan berani mengubah tampilan alun-alun Purwokerto menjadi tampilan taman yang lebih modern, dan sedikit dialih fungsikan sebagai tempat diadakannya acara kenegaraan seperti upacara dan tempat pergelaran budaya Banyumas.</item>
+        <item>Dengan dipindahkannya ibukota kabupaten Banyumas ke Purwokerto mengakibatkan kota Banyumas menjadi sepi dan hampir terlupakan.
+        Meskipun demikian, bekas-bekas kemegahan kota di masa lampau masih tampak, seperti bekas rumah tinggal bupati (sekarang digunakan sebagai kantor kecamatan Banyumas dan sebagai rumah-rumah dinas pegawai setempat); beberapa gedung sekolah, yaitu Kartini School (sekarang menjadi SD Negeri II Sudagaran); Vervolg Shool, dan Tweede Irlandshe School (sekarang digunakan sebagai sebagai SMP Negeri I Banyumas); di sebelah timur alun-alun Banyumas terdapat rumah tahanan (lembaga pemasyarakatan)  dan di sebelah selatannya, menyeberang jalan raya, terdapat Europeeshe School – (sekarang telah beralih sebagai SD Center di Banyumas, yaitu SD Negeri I Sudagaran dan kantor cabang dinas pendidikan kecamatan Banyumas).
+        Di sebelah timur kelompok bangunan tersebut terdapat bekas Gedung Kepatihan (rumah Patih Sepuh) yang pada zaman Orba pernah digunakan sebagai kantor pembantu bupati/kawedanan Banyumas. Di sebelah timur laut alun-alun terdapat toponim Pecinan dan pasar.
+        Keberadaan Masjid Besar Nur Sulaiman Banyumas yang merupakan the living monument dan bangunan cagar budaya terdapat di sebelah barat alun-alun. Kemudian sejauh jarak satu kilo meter ke arah selatan dari alun-alun Banyumas terdapat bekas kompleks karesidenan Banyumas (milik Belanda), kini digunakan sebagai gedung SMK Negeri I Banyumas dan kompleks pondok pesantren pendidikan Islam (PPPI) Miftahussalam Banyumas.
+        Dari tata ruang kota yang ada, kota “lama” Banyumas dengan alun-alun sebagai pusatnya sebenarnya adalah refleksi dari bentuk tata kota lama yang berkiblat pada tata kota pusat kerajaan-kerajaan Islam di Jawa antara abad XIX sampai menjelang awal abad XX. Oleh karena itu, Banyumas merupakan salah satu daerah aset wisata sejarah yang berpotensi untuk digali dan dikembangkan sehingga dapat mendatangkan manfaat dan kesejahteraan bagi masyarakat kabupaten Banyumas.</item>
+        <item>Situs Batur Agung adalah situs purbakala yang merupakan kompleks sejumlah sisa bangunan yang Dusun Pondok Lakah, Desa Baseh, Kecamatan Kedungbanteng, Kabupaten Banyumas, Jawa Tengah. Situs ini berupa punden berundak yang merupakan peninggalan pra sejarah. Luas situs + 10,080 ha, dibagian dalam situs terdapat bangunan pelindung tingalan-tinggalan yang berupa arca dan artefak.
+        Dinamakan Situs Batur Agung menurut cerita masyarakat setempat situs tersebut pada zaman dahulu digunakan sebagai pertapaan agung Raden Kamandaka dari Kerajaan Pajajaran. Sebagaimana diketahui Raden Kamandaka legendanya sangat melekat dengan cerita asal-usul Purwokerto. Situs tersebut sebenarnya merupakan bantuan punden berundak dengan tiga teras yang berorientasi utara selatan dengan mengagungkan gunung Slamet yang dianggapnya sebagai tempat persinggahan terakhir bersemayamnya para arwah nenek moyang.
+        Di sebelah timur situs terdapat aliran sungai yang pada masa prasejarah sudah digunakan sebagai tempat bersuci sebelum menuju ke tempat pemujaan arwah nenek moyang. Peninggalan yang terdapat di dalam lokasi situs tersebut antara lain 3 buah patung batu dengan bahan dasar batu andesit yang menggambarkan lambang nenek moyang dengan bentuknya sangat sederhana, dengan ukuran rata-rata tinggi 80 cm dan garis tengah 30 cm.</item>
+        <item>Terletak di Dusun Gandatapa, Desa Gandatapa, Kec. Sumbang, di dalam areal pemakaman umum Desa Gandatapa dengan lokasi di sisi sebelah timur selatan.Dinamakan makam Gandakusuma menurut cerita masyarakat setempat, makam tersebut merupakan makam para prajurit Pajang yang melarikan diri dari pusat kerajaan dan dibunuh oleh tentara kerajaan Pajang. Sebenarnya makam tersebut adalah kuburan batu yang merupakan bangunan megalitik yang paling tua, yang berfungsi sebagai kuburan, karena di tempat tersebut terdapat beberapa bentuk batu besar lainnya yang pada zaman prasejarah sering digunakan sebagai palengkap pemujaan arwah nenek moyang yang bentuknya menyerupai menhir. Adapun luas makam tersebut adalah panjang 14 m dan lebar 11 m dengan orientasi mengarah ke arah utara dan selatan dengan pintu masuk dari arah selatan. Di sebelah timur makam terdapat aliran sungai Gandatapa yang pada zaman prasejarah digunakan sebagai tempat bersuci sebelum memasuki makam/ tempat pemujaan arwah nenek moyang.</item>
+        <item>Situs watu gathel terletak di Desa Karangmangu Kec. Baturraden di sebelah timur jalan raya Baturraden di tengah-tengah areal pemukiman penduduk. Dinamakan watu gathel karena menurut kepercayaan masyarakat setempat bentuknya menyerupai alat kelamin laki-laki. Orang yang datang ke tempat tersebut selain ingin menyaksikan keunikan peninggalan prasejarah tersebut, juga meyakini dapat memperoleh penglaris dalam dunia perdagangan. situs ini merupakan peninggalan prasejarah masa megalitikum sebagai tempat pemujaan arwah nenek moyang yang berjenis kelamin laki-laki dan berorientasi ke arah barat dan timur karena diyakini tempat bersemayamnya arwah nenek moyang tersebut berada di sebelah barat gunung Slamet. Disebelah timur situs tersebut terdapat aliran sungai Belot yang pada zaman prasejarah sudah digunakan sebagai tempat bersuci sebelum menuju tempat pemujaan arwah nenek moyang ( situs watu gathel ). Bahan dasar situs tersebut terbuat dari batu andesit yang bentuknya menyerupai alat kelamin laki-laki dengan ukuran tinggi 25 cm, garis tengah 140 cm, dan panjang 70 cm, dengan luas situs keseluruhan lebar 1 meter dan panjang 1,5 m.</item>
+        <item>Situs candi Sapto Argo terletak di Desa Karangmangu, Kec. Baturraden di dalam areal lokawisata Baturraden tepatnya di sebelah utara kantor lokawisata Baturraden. Situs ini merupakan punden berundak dengan tiga teras yang merupakan tempat pemujaan arwah nenek moyang pada zaman prasejarah, berorientasi ke arah utara dan selatan ke arah gunung Slamet yang diyakini sebagai tempat bersemayamnya para arwah nenek moyang. Di sebelah timur situs tersebut terdapat aliran sungai Belot yang pada zaman prasejarah digunakan sebagai tempat bersuci sebelum menuju tempat pemujaan arwah nenek moyang. Peninggalan yang terdapat di dalam lokasi situs tersebut berupa menhir sebanyak 2 buah, dengan bahan dasar batu andesit yang berukuran masing-masing tinggi 75 cm, garis tengah 20 cm berada pada pintu masuk teras ketiga di samping itu juga terdapat beberapa makam/ kubur batu. Sebenarnya makam tersebut adalah kuburan batu yang merupakan bangunan megalitik yang paling tua yang berfungsi sebagai kuburan, karena di tempat tersebut terdapat beberapa bentuk batu besar lainnya yang pada zaman prasejarah sering digunakan sebagai pelengkap pemujaan arwah nenek moyang yang bentuknya menyerupai menhir tempat nersemayamnya jasad nenek moyang. Luas situs keseluruhan panjang 24 m, dan lebar 22 m.</item>
+    </string-array>
+    <string-array name="data_photo4">
+        <item>https://www.jejakpiknik.com/wp-content/uploads/2018/06/website_22031610032956f15ec147465-630x380.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/11/7f/a4/90/monumen-museum-panglima.jpg</item>
+        <item>https://banyumas.org/wp-content/uploads/2019/01/2020_Pendopo-Si-Panji-Purwokerto.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/d/d5/Museum-wayang-sendangmas.jpg</item>
+        <item>https://rutemu.com/wp-content/uploads/2019/05/Alun-Alun-Purwokerto.jpg</item>
+        <item>https://1.bp.blogspot.com/-Ra4IFVRCT_k/Wtbs4mDf4QI/AAAAAAABGzk/iR3LEu5aIUkE-MHIEKCUAIiyFbdfYMwWgCLcBGAs/s400/DSC03818.JPG</item>
+        <item>https://img.antaranews.com/cache/800x533/2019/12/09/batur-agung.jpg</item>
+        <item>https://cdn0-production-images-kly.akamaized.net/q5Dtmcbe3IF4bV03KfEe-sLOjPs=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2769688/original/039176100_1554376619-MAKAM_LELUHUR_PRABOWO-Ridlo.jpg</item>
+        <item>http://2.bp.blogspot.com/_8MgdD_LYlSQ/TFZTkvv73MI/AAAAAAAABPU/XAW4_71JT2o/s1600/watu_guling.jpg</item>
+        <item>https://www.infobudaya.com/wp-content/uploads/2018/06/Info-Budaya-candi-Ngetos.jpg</item>
+    </string-array>
+
+    <string-array name="data_name5">
+        <item>Ambalika Resto</item>
+        <item>Djago Jowo</item>
+        <item>Gubug Mang Engking</item>
+        <item>Alas Daun</item>
+        <item>Soto Sami Asih</item>
+        <item>Pringgading</item>
+        <item>Table Nine</item>
+        <item>Pasar Pereng</item>
+        <item>Level Up</item>
+        <item>Oemah Daun</item>
+    </string-array>
+    <string-array name="data_description5">
+        <item>Untuk menikmati kuliner dengan menu dan suasana mewah cobalah ke Ambalika Resto. Lokasinya berada di Hotel Java Heritage dengan alamat Jl. Dr. Angka No. 71 Purwokerto. Menu Makanan Cina dengan sentuhan Indonesia adalah fokus utama restoran ini. Rasa makanannya sangat enak, cocok untuk acara-acara khusus dan ketika ingin mencoba sesuatu yang mewah.
+        Selain itu, dari segi bahan baku kualitasnya sangat terjamin. Paket barbeque juga tersedia pada hari-hari tertentu disertai dengan musik live. Lokasi dalam dan luar ruangan ditata dengan sangat indah dengan pemandangan kolam renang.</item>
+        <item>Pecinta ayam goreng jangan sampai melewatkan restoran yang satu ini jika mengunjungi Purwokerto. Sesuai namanya, Djago Jowo mengandalkan masakan ayam dengan ala Banyumasan yang empuk dan bumbu meresap ke tulang. Untuk minumannya, ada yang tradisional juga, lho. Yaitu seperti beras kencur dan gula asem yang semakin jarang ditemukan di kota-kota besar.
+        Menu favorit para pengunjung di Djago Jowo yang berlamatkan Jl. Gelora Indah No. 1, Purwokerto adalah Ayam Nusantara. Menu tersebut terkenal dengan ukurannya yang besar. Ada juga menu paket besek, yaitu nasi dan lauk pauk yang disajikan dalam kotak anyaman bambu.</item>
+        <item>Rumah makan bergaya Sunda ini sangat terkenal. Meskipun menyajikan menu khas Sunda, faktanya, Mang Engking ini berpusat di Yogyakarta. Untuk Purwokerto, Gubug Makan Mang Engking ada di Jl. Prof. H. R. Bunyamin, Kelurahan Pabuaran, Purwokerto Utara.
+        Menu andalannya udang bakar madu dengan varian udang yang dimasak yaitu udang raksasa (galah). Madu yang digunakan dalam menu tersebut untuk menggantikan kecap manis setelah udang dibakar.
+        Selain udang bakar madu, ada udang asam manis, udang goreng biasa, udang goreng tepung, udang rebus, udang saus padang dan saus tiram.</item>
+        <item>Restoran yang menyajikan berbagai macam menu dan tempat sangat nyampan untuk keluarga maupun meeting</item>
+        <item>Siapa tak kenal kuliner yang satu ini. Bakso dan Soto Sokaraja “Sami Asih” (Pak Birin) salah satu kuliner yang sudah sangat terkenal di Purwokerto. Penggemar Bakso atau Soto pasti sudah sering makan disini karena memang terkenal enak dengan tempat yang cukup bersih dan nyaman. Sajian Bakso dan Sotonya sangat mengundang selera makan. Untuk Sotonya berisi Kupat dan Daging Sapi atau Ayam Kampung (sesuai pesanan),
+              dicampur kerupuk warna, bawang goreng ditaburi bumbu kacang dan potongan daun bawang dengan air kaldu dengan bumbu uenakk. Sedang Baksonya berupa Mie di tambah Bakso dan beberapa potongan daging yang lembut. Jika ingin mencoba, silahkan datang saja langsung ke lokasi “Bakso dan Soto Sami Asih Purwokerto (Pak Birin)” yang beralamat di Jl. Pramuka, sebelah barat Apotik Widuri dengan Nomor Telepon 0281-9130091.
+              Dan kini juga buka cabang ke 2 \n di Jl. DI. Panjaitan (dari Sami Asih 1 ke timur hingga perempatan pertama lalu belok kanan sekitar 200 m).</item>
+        <item>Selain berfungsi sebagai restoran, Pringgading juga menyediakan ruang serbaguna untuk rapat sampai resepsi pernikahan. Tempatnya dikenal bersih, nyaman dan rapi dengan area parkir yang luas. Selain itu, stafnya juga sangat ramah dan menyenangkan. Menu andalannya adalah cumi-cumi goreng mentega dan pengunjung dapat menikmatinya dengan ditemani suara gemericik air terjun buatan yang menghiasi interior restoran.
+        Yang nggak sabar ingin icip-icip, segera meluncur ke Jl. D. I. Panjaitan No. 217, Purwokerto.</item>
+        <item>Restoran ini menawarkan bubur yang unik. Namanya bubur ayam merah. Bukan sembarang bubur ayam, karena daging ayam yang disajikan begitu empuk, kental dan merah. Dalam pengolahannya, daging dipanggang terlebih dulu sebelum disajikan.
+        Rasa bubur dijamin lebih gurih dengan aroma daun bawang dan seledri yang menghiasi di atas mangkuk. Penasaran? Segera saja menuju ke Jl. Prof. H. R. Bunyamin, Kelurahan Pabuaran, Purwokerto Utara.</item>
+        <item>Pereng merupakan pusat kuliner yang menempati gedung yang dibangun oleh pemerintah daerah Kabupaten Banyumas. Lokasinya dekat dengan alun-alun berjarak sekitar 100 meter ke arah barat, dan kebanyakan pedagangnya adalah pindahan PKL alun-alun.
+        Menempati gedung 2 lantai dan lokasi yang cukup luas, para pedagang tertata cukup rapi dan meja-meja makan yang cukup terawat dan bersih membuat tampak cukup nyaman. Sayangnya para pedagang tidak buka penuh dari pagi sampai malam, rata-rata penjual makanan buka dari sekitar jam 3 sampai malam jam 9. Mungkin karena memang pada siang hari kurang ramai pengunjungnya.
+        Memang setiap kami lewat pada siang hari masih cukup lengang, hanya terlihat beberapa saja yang berjualan. Namun pada sore sampai malam biasanya sangat ramai apalagi saat week end atau liburan. Pilihan kulinernya cukup beragam dari makanan khas Purwokerto seperti mendoan dan gorengan atau jajanan pasar lain, Bakso, Bakmi, Nasi Goreng, Bubur Ketan Hitam, Bubur Kacang Hijau, Aneka Jus, berbagai varian Ayam Goreng, Gudeg, Bubur Jagung dan banyak lainnya. Beberapa yang kami coba diantaranya Siomay, Bubur Jagung, Bubur Ketan hitam dan Jus.
+        Di lantai atas terdapat beberapa kios diantaranya Bahagia Elektronik, Pusat Kursi Handoko, CV. Vision Indoperkasa, Migeru Refleksi, Handoko R.St Kosmetik, Kacamata Slamet, John Salon, Toko Baju Anak Sumber Laris, Rafael Barbershop, Toko Serayu Fotokopi dan Toko Buku ANS. Rafael Barbershop sendiri saat kami berkunjung masih dengan tarif promo hanya 7 ribu saja. Jika ingin potong rambut atau cukur dengan tempat yang nyaman, datang aja ke sini selagi masih promo.
+        Jika ingin mencoba aneka makanan disini silahkan datang aja ke lokasi, dari Alun-Alun Purwokerto ke barat, sebelah barat penjara ada Pratistha Harsa Blok A yang menjadi pusat UMKM, nah Pusat Kuliner Pratistha Harsa Pereng ada di Blok B yang berada di belakangnya, masuk melalui jalan di sebelah baratnya.</item>
+        <item>Ini cafe favorit sehabis kelaparan nonton dibioskop. Lokasinya depan bioskop rajawali. Decorasi desainya kece pisan, pas makan disini berasa lagi di inggris. Yang paling nyenengin disini itu salad with beefnya enak pisan.. g ketingalan lycee mojito beneran so refreshing.. apalagi sambil ngomongin masa depan sama teman. Bisa level up kaya namanya.</item>
+        <item>Oemah Daun dengan alamat Jl. K. H. Wahid Hasyim No. 101-103 Karangklesem cocok untuk anggota keluarga atau rombongan yang menginginkan wisata kuliner. Karena, tempatnya nyaman dan cocok untuk digunakan bersantai. Selain itu, juga menyediakan fasilitas menarik seperti biliar, taman dan tempat bermain anak-anak. Ada dua kategori tempat makan, yaitu indoor dan outdoor.
+        Jika makan di ruangan dalam maka akan makan di atas meja persegi panjang. Sedangkan untuk outdoor, tempatnya lesehan. Nah, untuk menu favoritnya adalah ayam pasmol, nasi goreng yang memiliki rasa khas, soto bakar dan lain-lain.</item>
+    </string-array>
+    <string-array name="data_photo5">
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/10/ac/9b/cb/ambalika-rooftop-bar.jpg</item>
+        <item>https://2.bp.blogspot.com/-Rk1Of51rBGM/WKgTYAAhOhI/AAAAAAAAAHI/Q9xYqhWnQw8ZAlWlyWx8O_imV1iBe_A3ACLcB/s1600/00010001.JPG</item>
+        <item>http://2.bp.blogspot.com/-r8_gO2H1WQ8/VV34DKf4d6I/AAAAAAAABrg/k_ynRnaKKm4/s1600/alamat%2Brumah%2Bmakan%2Bmang%2Bengking%2Bpurwokerto.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/07/18/b0/8e/alas-daun.jpg</item>
+        <item>https://www.panggon.com/wp-content/uploads/2013/10/Bakso-Soto-Sami-Asih.jpg</item>
+        <item>https://www.panggon.com/wp-content/uploads/2013/09/Pringgading.jpg</item>
+        <item>https://www.panggon.com/wp-content/uploads/2014/05/Restoran-Table-Nine-Kitchen-Purwokerto.jpg</item>
+        <item>http://www.purwokertoguidance.com/wp-content/uploads/2015/07/Pusat-Kuliner-Pratistha-Harsa-Purwokerto.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-p/17/3e/44/41/level-up.jpg</item>
+        <item>https://4.bp.blogspot.com/-EGwY2OtNu20/WHLDM3mbIZI/AAAAAAAAAII/O9iD9e9GHRIniKkks0-pD3QyhA_BaDUDwCLcB/s1600/7-Taman3.jpg</item>
+    </string-array>
+    <string name="title_activity_hotel_detail">HotelDetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="data_lat">
+        <item>-7.333797</item>
+        <item>-7.374473</item>
+        <item>-7.339740</item>
+        <item>-7.309025</item>
+        <item>-7.323928</item>
+        <item>-7.318927</item>
+        <item>-7.363442</item>
+        <item>-7.329098</item>
+        <item>-7.521226</item>
+        <item>-7.534259</item>
+    </string-array>
+    <string-array name="data_lang">
+        <item>109.206959</item>
+        <item>109.240532</item>
+        <item>109.207811</item>
+        <item>109.208766</item>
+        <item>109.218085</item>
+        <item>109.241635</item>
+        <item>109.038615</item>
+        <item>109.224080</item>
+        <item>109.211984</item>
+        <item>109.244665</item>
+    </string-array>
+    <string name="title_activity_hotel_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

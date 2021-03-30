@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="426dp"
+        android:layout_height="219dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginEnd="35dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <ImageButton
+        android:id="@+id/hotel"
+        android:layout_width="144dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="35dp"
+        android:background="@drawable/button_back"
+        android:src="@drawable/hotel"
+        android:elevation="4dp"
+        app:layout_constraintEnd_toStartOf="@+id/oleholeh"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/viewPager" />
+
+        <ImageButton
+        android:id="@+id/oleholeh"
+        android:layout_width="144dp"
+        android:layout_height="118dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="35dp"
+        android:text="@string/tugas2"
+        android:src="@drawable/supenir"
+        android:background="@drawable/button_back"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:elevation="4dp"
+        app:layout_constraintHorizontal_bias="0.761"
+        app:layout_constraintStart_toEndOf="@+id/hotel"
+        app:layout_constraintTop_toBottomOf="@+id/viewPager" />
+
+    <ImageButton
+        android:id="@+id/wisataalam"
+        android:layout_width="144dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="35dp"
+        android:background="@drawable/button_back"
+        android:elevation="4dp"
+        android:src="@drawable/alam"
+        android:text="@string/tugas3"
+        app:layout_constraintEnd_toEndOf="@id/hotel"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintStart_toStartOf="@id/hotel"
+        app:layout_constraintTop_toBottomOf="@id/hotel" />
+
+    <ImageButton
+        android:id="@+id/tempatbersejarah"
+        android:layout_width="144dp"
+        android:layout_height="118dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="35dp"
+        android:background="@drawable/button_back"
+        android:text="@string/tugas4"
+        android:src="@drawable/bersejarah"
+        android:elevation="4dp"
+        app:layout_constraintEnd_toEndOf="@+id/oleholeh"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/oleholeh"
+        app:layout_constraintTop_toBottomOf="@+id/oleholeh" />
+
+    <ImageButton
+        android:id="@+id/kuliner"
+        android:layout_width="144dp"
+        android:layout_height="118dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/button_back"
+        android:elevation="4dp"
+        android:src="@drawable/kuliner"
+        android:text="@string/tugas3"
+        app:layout_constraintEnd_toEndOf="@+id/wisataalam"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/wisataalam"
+        app:layout_constraintTop_toBottomOf="@+id/wisataalam" />
+
+        <ImageButton
+            android:id="@+id/comment"
+            android:layout_width="144dp"
+            android:layout_height="118dp"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="17dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/button_back"
+            android:elevation="4dp"
+            android:src="@drawable/komen"
+            android:text="@string/tugas3"
+            app:layout_constraintEnd_toEndOf="@+id/tempatbersejarah"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/tempatbersejarah"
+            app:layout_constraintTop_toBottomOf="@+id/tempatbersejarah" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031108105019",
+    "firebase_url": "https://hibanyumas.firebaseio.com",
+    "project_id": "hibanyumas",
+    "storage_bucket": "hibanyumas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031108105019:android:35d5974cf22753775bdd1e",
+        "android_client_info": {
+          "package_name": "com.tubes.hibanyumas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031108105019-4unrioq86j017on11nromnittiik01qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tubes.hibanyumas",
+            "certificate_hash": "6aa039afea89d2bd2c6cb6ac684c531ee7ce8600"
+          }
+        },
+        {
+          "client_id": "1031108105019-pm6649ijq2uqbr0m7m9hm0rl3bs3cvcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD49saqvyv39cJBQoSP01hIVrzgBofjHaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031108105019-pm6649ijq2uqbr0m7m9hm0rl3bs3cvcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
